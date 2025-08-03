@@ -24,6 +24,20 @@ Contents:
 
 ---
 
+## Psion Series 3 and Variants
+
+| Device            | EPOC16 Version | ROM Version | Language | Filename                                                     | MD5 Checksum                                                 |
+| ----------------- | -------------- | ----------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Psion Series 3    |                | 1.77f       | English  | [3504-3001-01_19-11-91v1.77f_eng.bin](Series3/s3_v1.77f_eng/3504-3001-01_19-11-91v1.77f_eng.bin)<br />[3504-3002-01_19-11-91v1.77f_eng.bin](Series3/s3_v1.77f_eng/3504-3002-01_19-11-91v1.77f_eng.bin) | `f45adbb8e951ac1be922279197baf6c6`<br />`3bf167eeb8f41d88981ed12632414e1d` |
+| Acorn Pocket Book |                | 1.91f       |          | [pb_v1.91f_acn.bin](Series3/pb_v1.91f_acn/pb_v1.91f_acn.bin)<br />[acspell.bin](Series3/pb_v1.91f_acn/acspell.bin) | `2e3fd0717451d7621b664d7eb85e89be`<br />`4ecb448d5828855dbeaf223cef5fe346` |
+| Psion Series 3s   |                | 1.91f       | English  | [s3_v1.91f_eng.bin](Series3/s3_v1.91f_eng/s3_v1.91f_eng.bin) | `44ee1451e72b8f662f369a86b488d4db`                           |
+
+> [!NOTE]
+>
+> - Early Series 3 devices (see 1.77f) used two ROM chips resulting in two images.
+>
+> - The Psion Series 3s is the name given to a Series 3 variant that includes the Sheet application in the ROM.
+
 ## Psion Series 3a and Variants
 
 | Device                     | EPOC16 Version | ROM Version | Language         | Filename                                          | MD5 Checksum                       |
