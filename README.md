@@ -4,6 +4,7 @@ Some of this ROM files are upgraded (patched) to solve some bugs or add function
 
 Contents:
 
+- [Psion Series 3 and variants](#psion-series-3-and-variants)
 - [Psion Series 3a and variants](#psion-series-3a-and-variants)
 - [Psion Siena](#psion-siena)
 - [Psion Series 3c](#psion-series-3c)
