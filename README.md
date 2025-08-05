@@ -69,7 +69,7 @@ Contents:
 | Device           | EPOC16 Version | ROM  Version | Language | Filename                                               | MD5 Checksum                       |
 | ---------------- | -------------- | ------------ | -------- | ------------------------------------------------------ | ---------------------------------- |
 | Psion Series 3mx | 4.08f          | 6.16f        | English  | [maple_v6.16f_uk.bin](Series3mx/maple_v6.16f_uk.bin)   | `64572cc3522447179d1e6f3b8fb45360` |
-| Psion Series 3mx |                | 6.17f        | Dutch    | [maple_v6.17f_nl.bin](Series3mx/maple_v6.17f_nl.bin)   | `1c0be65220e3e2ab6d75b83975e3805b` |
+| Psion Series 3mx | 4.10f          | 6.17f        | Dutch    | [maple_v6.17f_nl.bin](Series3mx/maple_v6.17f_nl.bin)   | `1c0be65220e3e2ab6d75b83975e3805b` |
 | Psion Series 3mx |                | 6.20f        | French   | [maple_v6.20f_fre.bin](Series3mx/maple_v6.20f_fre.bin) | `1b367e2fb862545cf420ff74a7f85ea7` |
 
 ## Psion Workabout
