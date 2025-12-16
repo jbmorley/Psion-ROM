@@ -55,7 +55,7 @@ Contents:
 
 | Device      | EPOC16 Version | ROM Version | Language | Filename                                         | MD5 Checksum                       |
 | ----------- | -------------- | ----------- | -------- | ------------------------------------------------ | ---------------------------------- |
-| Psion Siena | 3.70f          | 4.20f       | English  | [vine_v4.20f.bin](Siena/vine_v4.20f.bin)         | `242e80fdbf9b353a05f6ff4d1db1c769` |
+| Psion Siena | 3.70f          | 4.20f       | English  | [vine_v4.20f_eng.bin](Siena/vine_v4.20f_eng.bin) | `242e80fdbf9b353a05f6ff4d1db1c769` |
 | Psion Siena | 3.70f          | 4.21f       | French   | [vine_v4.21f_fre.bin](Siena/vine_v4.21f_fre.bin) | `7e243772a135a12ea2d86020774a6fc8` |
 
 ## Psion Series 3c
