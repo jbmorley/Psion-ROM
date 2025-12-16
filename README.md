@@ -16,7 +16,6 @@ Contents:
 - Dumped ROMs of Ericcson MC218 ([UK](MC218/UK/), [DE](MC218/DE/))
 - [Psion Series 7](#psion-series-7)
   - ROM Update for Series 7 ([UK](Series7/Updates/UK/), [US](Series7/Updates/US/))
-
 - ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
 - Revo Firmware Dump ([DE](Revo/DE/))
 - Dumped ROM for Psion 5mx ([UK](5mx/UK/))
@@ -41,15 +40,15 @@ Contents:
 
 ## Psion Series 3a and Variants
 
-| Device                     | EPOC16 Version | ROM Version | Language         | Filename                                          | MD5 Checksum                       |
-| -------------------------- | -------------- | ----------- | ---------------- | ------------------------------------------------- | ---------------------------------- |
-| Psion Series 3a (1MB)      | 3.20f          | 3.22f       | English          | [s3a_v3.22f_eng.bin](Series3a/s3a_v3.22f_eng.bin) | `782048b4bdca628b01a7f853b6ec4c70` |
-| Acorn Pocket Book II (1MB) |                | 1.30f       | English          | [pb2_v1.30f_acn.bin](Series3a/pb2_v1.30f_acn.bin) | `e8eb24cba162fef331519b7c55136537` |
-| Psion Series 3a (2MB)      | 3.55f          | 3.40f       | English          | [s3a_v3.40f_eng.bin](Series3a/s3a_v3.40f_eng.bin) | `cfcd7be36fad529405d3abd48294af31` |
-| Psion Series 3a (2MB)      |                | 3.40f       | Italian          | [s3a_v3.40f_ita.bin](Series3a/s3a_v3.40f_ita.bin) | `8f9e750bb628c6f3c3189b50475215a5` |
-| Psion Series 3a (2MB)      |                | 3.40f       | American English | [s3a_v3.40f_usa.bin](Series3a/s3a_v3.40f_usa.bin) | `a6264f08982608391843a7f331b6404b` |
-| Psion Series 3a (2MB)      | 3.55f          | 3.41f       | German           | [s3a_v3.41f_deu.bin](Series3a/s3a_v3.41f_deu.bin) | `45c8db03c357e5784158f966c5de7018` |
-| Psion Series 3a (2MB)      |                | 3.43f       | Russian          | [s3a_v3.43f_rus.bin](Series3a/s3a_v3.43f_rus.bin) | `4ebca4c28c3cc5317206e4103a1b702a` |
+| Device                     | EPOC16 Version | ROM Version | Language         | Filename                                          | MD5 Checksum                       | MAME System   |
+| -------------------------- | -------------- | ----------- | ---------------- | ------------------------------------------------- | ---------------------------------- | ------------- |
+| Psion Series 3a (1MB)      | 3.20f          | 3.22f       | English          | [s3a_v3.22f_eng.bin](Series3a/s3a_v3.22f_eng.bin) | `782048b4bdca628b01a7f853b6ec4c70` | `psion3a`     |
+| Acorn Pocket Book II (1MB) |                | 1.30f       | English          | [pb2_v1.30f_acn.bin](Series3a/pb2_v1.30f_acn.bin) | `e8eb24cba162fef331519b7c55136537` |               |
+| Psion Series 3a (2MB)      | 3.55f          | 3.40f       | English          | [s3a_v3.40f_eng.bin](Series3a/s3a_v3.40f_eng.bin) | `cfcd7be36fad529405d3abd48294af31` | `psion3a2`    |
+| Psion Series 3a (2MB)      |                | 3.40f       | Italian          | [s3a_v3.40f_ita.bin](Series3a/s3a_v3.40f_ita.bin) | `8f9e750bb628c6f3c3189b50475215a5` | `psion3a2_it` |
+| Psion Series 3a (2MB)      |                | 3.40f       | American English | [s3a_v3.40f_usa.bin](Series3a/s3a_v3.40f_usa.bin) | `a6264f08982608391843a7f331b6404b` | `psion3a2_us` |
+| Psion Series 3a (2MB)      | 3.55f          | 3.41f       | German           | [s3a_v3.41f_deu.bin](Series3a/s3a_v3.41f_deu.bin) | `45c8db03c357e5784158f966c5de7018` | `psion3a2_de` |
+| Psion Series 3a (2MB)      |                | 3.43f       | Russian          | [s3a_v3.43f_rus.bin](Series3a/s3a_v3.43f_rus.bin) | `4ebca4c28c3cc5317206e4103a1b702a` | `psion3a2_ru` |
 
 ## Psion Siena
 
