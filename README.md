@@ -89,7 +89,8 @@ Contents:
 
 ## Psion Series 7
 
-| Device                   | EPOC32 Version | ROM  Version           | Language | Filename                                                                 | MD5 Checksum                       |
-| ------------------------ | -------------- | ---------------------- | -------- | ------------------------------------------------------------------------ | ---------------------------------- |
-| Psion Series 7           |                | 1.05 (254) (Build 754) | English  | [series7_1.05_254_build_756.bin](Series7/series7_1.05_254_build_756.bin) | `c78c3cf48d2fd7b8f0d5bc9cadd79159` |
+| Device         | EPOC32 Version | ROM  Version           | Language | Filename                                                     | MD5 Checksum                       |
+| -------------- | -------------- | ---------------------- | -------- | ------------------------------------------------------------ | ---------------------------------- |
+| Psion Series 7 |                | 1.05 (254) (Build 754) | English  | [series7_1.05_254_build_756.bin](Series7/series7_1.05_254_build_754.bin) | `cf8f5cf06082b133a1828781f65f02c0` |
+| Psion Series 7 |                | 1.05 (254) (Build 756) | English  | [series7_1.05_254_build_756.bin](Series7/series7_1.05_254_build_756.bin) | `c78c3cf48d2fd7b8f0d5bc9cadd79159` |
 
