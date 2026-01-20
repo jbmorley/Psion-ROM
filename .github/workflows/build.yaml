@@ -9,7 +9,7 @@ on:
 
 jobs:
 
-  macos-build:
+  archive-build:
 
     runs-on: ubuntu-latest
 
