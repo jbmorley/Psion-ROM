@@ -2,7 +2,7 @@ This repository contains official ROM files for old Psion Devices.
 All the files could be downloaded for free from the official Psion / Psion Teklogix Website in the past.
 Some of this ROM files are upgraded (patched) to solve some bugs or add functionality.
 
-Contents:
+ROMs:
 
 - [Psion Series 3 and variants](#psion-series-3-and-variants)
 - [Psion Series 3a and variants](#psion-series-3a-and-variants)
@@ -11,15 +11,28 @@ Contents:
 - [Psion Series 3mx](#psion-series-3mx)
 - [Psion Workabout](#psion-workabout)
 - [Psion Workabout MX](#psion-workabout-mx)
-- ROMs for Psion 5mx Pro, patched with additional App (MyPhone), Ericsson ringtone and logo from Ericsson MC218 ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
-- Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
-- Dumped ROMs of Ericcson MC218 ([UK](MC218/UK/), [DE](MC218/DE/))
+- Psion Series 5 and Variants
+  - Dumped ROM for Psion Series 5 ([UK](Series5/UK/))
+  - Dumped ROMs of Ericsson MC218 ([UK](MC218/UK/), [DE](MC218/DE/))
+
 - [Psion Series 7](#psion-series-7)
   - ROM Update for Series 7 ([UK](Series7/Updates/UK/), [US](Series7/Updates/US/))
-- ROMs for Psion netBook, patched with additional Apps and components([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
-- Revo Firmware Dump ([DE](Revo/DE/))
-- Dumped ROM for Psion 5mx ([UK](5mx/UK/))
-- Dumped ROM for Psion Series 5 ([UK](Series5/UK/))
+- Psion netBook
+  - ROMs for Psion netBook, patched with additional Apps and components ([UK](netBook/UK/), [DE](netBook/DE), [FR](netBook/FR/), [SP](netBook/SP/))
+
+- [Psion Revo](#revo)
+  - Revo Firmware Dump ([DE](Revo/DE/))
+
+- Psion Series 5mx
+  - Dumped ROM for Psion 5mx ([UK](5mx/UK/))
+
+- Psion Series 5mx Pro
+  - ROMs for Psion 5mx Pro, patched with additional App (MyPhone), Ericsson ringtone and logo from Ericsson MC218 ([UK](5mxPro/UK/), [DE](5mxPro/DE/))
+  - Original ROM for Psion 5mx Pro ([DE](5mxPro/DE_orig/))
+
+
+Utilities:
+
 - [Tools](Tools/) for Patching Psion ROMs and additional components.
 
 ---
@@ -87,10 +100,16 @@ Contents:
 | ------------------ | -------------- | ------------ | -------- | ---------------------------------------------- | ---------------------------------- |
 | Psion Workabout MX | 4.31f          | 7.20f        | English  | [w2mx_v7.20f.bin](WorkaboutMX/w2mx_v7.20f.bin) | `d5e5c2aa32f9888e7fec8d2214f1547e` |
 
+## Revo
+
+| Device     | EPOC32 Version | ROM  Version | Language | Filename                                          | MD5 Checksum                       |
+| ---------- | -------------- | ------------ | -------- | ------------------------------------------------- | ---------------------------------- |
+| Psion Revo |                | 1.06 (390)   | English  | [revo_1.06_390_en.bin](Revo/revo_1.06_390_en.bin) | `9f0cb14967d29cfa52d11892f36db8bf` |
+
 ## Psion Series 7
 
 | Device         | EPOC32 Version | ROM  Version           | Language | Filename                                                     | MD5 Checksum                       |
 | -------------- | -------------- | ---------------------- | -------- | ------------------------------------------------------------ | ---------------------------------- |
-| Psion Series 7 |                | 1.05 (254) (Build 754) | English  | [series7_1.05_254_build_756.bin](Series7/series7_1.05_254_build_754.bin) | `cf8f5cf06082b133a1828781f65f02c0` |
+| Psion Series 7 |                | 1.05 (254) (Build 754) | English  | [series7_1.05_254_build_754.bin](Series7/series7_1.05_254_build_754.bin) | `cf8f5cf06082b133a1828781f65f02c0` |
 | Psion Series 7 |                | 1.05 (254) (Build 756) | English  | [series7_1.05_254_build_756.bin](Series7/series7_1.05_254_build_756.bin) | `c78c3cf48d2fd7b8f0d5bc9cadd79159` |
 
