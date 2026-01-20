@@ -14,10 +14,10 @@ mkdir -p "$BUILD_DIRECTORY"
 
 cd "$BUILD_DIRECTORY"
 
-mkdir psionlz64
-cp "$ROOT_DIRECTORY/OrganiserII/43-lz64.rom" psionlz64
-cp "$ROOT_DIRECTORY/OrganiserII/hd44780_a00.bin" psionlz64
-cp "$ROOT_DIRECTORY/OrganiserII/psion_lz_charset.bin" psionlz64
+# mkdir psionlz64
+# cp "$ROOT_DIRECTORY/OrganiserII/43-lz64.rom" psionlz64
+# cp "$ROOT_DIRECTORY/OrganiserII/hd44780_a00.bin" psionlz64
+# cp "$ROOT_DIRECTORY/OrganiserII/psion_lz_charset.bin" psionlz64
 
 mkdir psion3
 cp "$ROOT_DIRECTORY/Series3/s3_v1.91f_multi.bin" psion3
@@ -64,3 +64,5 @@ cp "$ROOT_DIRECTORY/Series3/pb_v1.91f_acn/pb_v1.91f_acn.bin" pocketbk
 
 mkdir pocketbk2
 cp "$ROOT_DIRECTORY/Series3a/pb2_v1.30f_acn.bin" pocketbk2
+
+zip -r "mame-roms.zip" *
