@@ -1,0 +1,28 @@
+name: build
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+
+  archive-build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Package the ROMs
+      run: scripts/build.sh
+
+    - name: Archive the binary
+      uses: actions/upload-artifact@v4
+      with:
+        path: build/mame-roms.zip
+        if-no-files-found: error
