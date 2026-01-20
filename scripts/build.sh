@@ -34,12 +34,8 @@ cp "$ROOT_DIRECTORY/Series3c/oak_v5.20f_eng.bin" psion3c
 
 mkdir psion3mx
 cp "$ROOT_DIRECTORY/Series3mx/maple_v6.16f_uk.bin" psion3mx
-
-mkdir psion3mx_nl
-cp "$ROOT_DIRECTORY/Series3mx/maple_v6.17f_nl.bin" psion3mx_nl
-
-mkdir psion3mx_fr
-cp "$ROOT_DIRECTORY/Series3mx/maple_v6.20f_fre.bin" psion3mx_fr
+cp "$ROOT_DIRECTORY/Series3mx/maple_v6.17f_nl.bin" psion3mx
+cp "$ROOT_DIRECTORY/Series3mx/maple_v6.20f_fre.bin" psion3mx
 
 mkdir siena
 cp "$ROOT_DIRECTORY/Siena/vine_v4.20f_eng.bin" siena
